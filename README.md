@@ -1,2 +1,2 @@
 # ENTPROGProj
-MyInventory Activity
+Activties & Projects
